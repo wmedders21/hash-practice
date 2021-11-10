@@ -10,3 +10,8 @@ animal = {
   "vertebrae" => true,
   "species" => 'trout'
 }
+
+customer = {
+  "age_range" => 45..60,
+  "gender" => 'female'
+}
