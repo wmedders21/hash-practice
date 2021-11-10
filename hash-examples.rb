@@ -4,3 +4,9 @@ car = {
   "make" => 'Ford',
   "model" => 'F-150'
 }
+
+animal = {
+  "kind" => 'Fish',
+  "vertebrae" => true,
+  "species" => 'trout'
+}
